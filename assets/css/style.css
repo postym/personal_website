@@ -12,6 +12,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #ffffff;
+  /* -webkit-text-size-adjust: 100%; */
 }
 
 a {
@@ -49,6 +50,9 @@ h6 {
   border-radius: 50px;
   transition: all 0.4s;
 }
+/* .swiper-scrollbar{
+  -ms-touch-action: none;
+} */
 
 .back-to-top i {
   font-size: 28px;
